@@ -335,11 +335,6 @@ Cost optimization strategies:
 - [ ] Deployment to campus kiosk
 - [ ] Monitoring & maintenance
 
-## Team & Contact
-
-- **Developer**: Bhavya Anil (B.Tech, Amrita)
-- **Advisor**: PhD Faculty, Amrita Vishwa Vidyapeetham
-- **Institution**: Amrita Vishwa Vidyapeetham
 
 ## License
 
